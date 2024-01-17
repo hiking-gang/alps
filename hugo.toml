@@ -1,0 +1,4 @@
+baseURL = 'https://bring-the-ring-to-mordor.org/'
+languageCode = 'en-us'
+title = 'Hiker Gang'
+theme = 'ananke'
